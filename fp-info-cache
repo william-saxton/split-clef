@@ -1,4 +1,4 @@
-25457754548010087
+25459500932337986
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -102283,6 +102283,13 @@ WSON-8-6X5-SKINNY_CENTERPAD
 0
 8
 8
+split-clef
+1.3 Inch OLED
+Connecteur 6 pins
+CONN DEV
+0
+4
+4
 split-clef
 logo
 
