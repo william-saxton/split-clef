@@ -1,0 +1,84 @@
+(footprint "1100mAh Battery"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -0.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "7b32472e-c53f-4336-9ee4-5f8f62178f93")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "1100mAh Battery"
+		(at 0 1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2a3c7c75-1b0b-4826-a9fb-a868e4afd91a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b92a9d07-bd6c-484a-ad9b-c7f8be1d9670")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d9e66982-cb26-44c9-9a7d-60d03ace175b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr board_only exclude_from_pos_files exclude_from_bom)
+	(fp_rect
+		(start 0 0)
+		(end 34.5 51)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "73600979-0124-4bc5-b76f-c36cc5172ca1")
+	)
+	(fp_text user "Bat"
+		(at 16.5 -0.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "a828c19f-36b7-471e-a55f-885672e0483e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(embedded_fonts no)
+)

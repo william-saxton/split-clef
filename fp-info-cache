@@ -1,4 +1,4 @@
-25459500932337986
+25468410161491174
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -102288,8 +102288,43 @@ split-clef
 Connecteur 6 pins
 CONN DEV
 0
+6
 4
+split-clef
+1100mAh Battery
+
+
+0
+0
+0
+split-clef
+Adafruit QSPI DIP Breakout Board
+
+
+0
+8
 4
+split-clef
+Adafruit-SPI-Flash-Breakout-PCB
+Adafruit_SPI_Flash_Breakout_PCB1 StepUp generated footprint
+
+0
+9
+8
+split-clef
+SuperMini NRF52840
+
+
+0
+26
+26
+split-clef
+Untitled
+
+
+0
+0
+0
 split-clef
 logo
 
