@@ -1,0 +1,6 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"J3_2, J3",OLED_v2,2,OLED,
+"JET_2, JET",JST_PH_S2B-PH-K_1x02_P2.00mm_Horizontal,2,JST_PH_S2B-PH-K_1x02_P2.00mm_Horizontal,
+"LS0, LS1, LS10, LS11, LS2, LS3, LS4, LS5, LS6, LS7, LS8, LS9, RS0, RS1, RS2, RS3_3, RS3_2, RS3, RS4, RS5, RS6, RS7, RS8, RS9",ChocV1_V2_Hotswap,24,,
+"MCU_2, MCU",SuperMini NRF52840,2,SuperMini,
+"RSW1_2, RSW1",ResetSW_1side,2,SW_PUSH,
