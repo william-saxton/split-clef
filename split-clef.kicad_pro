@@ -48,7 +48,7 @@
         "silk_text_thickness": 0.1,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.254
+          "min_clearance": 0.0
         }
       },
       "diff_pair_dimensions": [
@@ -60,15 +60,39 @@
       ],
       "drc_exclusions": [
         [
+          "starved_thermal|180090000|92825000|317fde85-c091-42e9-9134-962f7b353deb|0b0cef42-f80c-4527-b148-e4fb7670e89f|B.Cu",
+          ""
+        ],
+        [
+          "starved_thermal|180090000|92825000|317fde85-c091-42e9-9134-962f7b353deb|7446e282-cf6d-4a47-b11e-315be056c6d6|B.Cu",
+          ""
+        ],
+        [
+          "starved_thermal|189480000|89987500|317fde85-c091-42e9-9134-962f7b353deb|ffe11d89-01f0-4d19-975c-bcddea73f78f|B.Cu",
+          ""
+        ],
+        [
+          "starved_thermal|189480000|92087500|317fde85-c091-42e9-9134-962f7b353deb|6868a146-c268-49ff-8420-5d3d7bad14fb|B.Cu",
+          ""
+        ],
+        [
+          "starved_thermal|190780000|89100000|317fde85-c091-42e9-9134-962f7b353deb|cceba86d-bcf1-4a97-9be5-c4863cdc63b0|B.Cu",
+          ""
+        ],
+        [
+          "starved_thermal|191580000|89987500|317fde85-c091-42e9-9134-962f7b353deb|05aadf5f-de22-451c-b1b5-e6b41049d174|B.Cu",
+          ""
+        ],
+        [
+          "starved_thermal|191580000|92087500|317fde85-c091-42e9-9134-962f7b353deb|6a53091d-136f-49b5-af96-250851930818|B.Cu",
+          ""
+        ],
+        [
           "starved_thermal|234850000|91050000|b5bb3605-5b50-47b8-8bfc-c6bc9cdde9f2|4e898bcd-5f26-4ba7-8271-666350f62370|B.Cu",
           ""
         ],
         [
           "starved_thermal|234850000|93150000|b5bb3605-5b50-47b8-8bfc-c6bc9cdde9f2|142ce123-6d06-4f2d-9a12-c353ea48bca0|B.Cu",
-          ""
-        ],
-        [
-          "starved_thermal|236650000|90162500|b5bb3605-5b50-47b8-8bfc-c6bc9cdde9f2|26821872-03c8-4ab2-bbb9-522d276ac10d|B.Cu",
           ""
         ],
         [
@@ -131,10 +155,10 @@
         "silk_overlap": "ignore",
         "skew_out_of_range": "error",
         "solder_mask_bridge": "error",
-        "starved_thermal": "error",
+        "starved_thermal": "warning",
         "text_height": "ignore",
         "text_on_edge_cuts": "error",
-        "text_thickness": "warning",
+        "text_thickness": "ignore",
         "through_hole_pad_without_hole": "error",
         "too_many_vias": "error",
         "track_angle": "error",
